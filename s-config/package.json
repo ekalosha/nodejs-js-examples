@@ -1,0 +1,21 @@
+{
+  "name": "s-config",
+  "version": "1.2.3",
+  "description": "Config from file in constant",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "homepage": "https://github.com/sajera/s-config#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sajera/s-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sajera/s-config/issues"
+  },
+  "keywords": [ "s-config", "config", "config constant"],
+  "author": "Sajera: Serhii P <allsajera@gmail.com>",
+  "license": "MIT",
+  "dependencies": {}
+}
